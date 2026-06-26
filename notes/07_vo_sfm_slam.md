@@ -80,7 +80,7 @@ flowchart LR
 
 ## See it in action
 
-Watch a live monocular SLAM run that shows feature tracking, incremental mapping, and a loop closure snapping the trajectory back into global consistency: https://www.youtube.com/watch?v=OfrPAUyp1_s
+Watch a live monocular SLAM run that shows feature tracking, incremental mapping, and a loop closure snapping the trajectory back into global consistency: https://www.youtube.com/watch?v=Lc7VQHngSuQ
 
 > **Key takeaway:** VO, SfM, and SLAM share a front-end/back-end structure where bundle adjustment minimizes reprojection error and loop closure (via bag-of-words place recognition) is what defeats accumulated drift.
 

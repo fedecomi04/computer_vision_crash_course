@@ -80,7 +80,7 @@ Requires `pip install matplotlib numpy`. See [`figures/README.md`](figures/READM
 A live monocular SLAM run — feature tracking, incremental mapping, and a loop closure
 snapping the trajectory back into global consistency — ties the whole spine together:
 
-▶️ **https://www.youtube.com/watch?v=OfrPAUyp1_s**
+▶️ **https://www.youtube.com/watch?v=Lc7VQHngSuQ**
 
 ## Further resources
 
